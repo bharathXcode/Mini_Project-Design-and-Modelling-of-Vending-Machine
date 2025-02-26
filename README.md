@@ -1,1 +1,1 @@
-# Mini_Project---Design-Modelling-of-Vending-Machine
+# Mini_Project-Design-and-Modelling-of-Vending-Machine
